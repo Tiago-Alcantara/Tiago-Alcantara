@@ -51,5 +51,5 @@ Estou buscando as áreas de Back-end e Data Science voltada a finanças. Sou for
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tiago-Alcantara&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
  
- ![Snake](https://raw.githubusercontent.com/Tiago-Alcantara/Tiago-Alcantara/output/github-contribution-grid-snake.svg)
+ ![Snake](https://raw.githubusercontent.com/Tiago-Alcantara/tiago-Alcantara/output/github-contribution-grid-snake.svg)
  
