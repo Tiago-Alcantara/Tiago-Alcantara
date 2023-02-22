@@ -47,9 +47,9 @@ Estou buscando as áreas de Back-end e Data Science voltada a finanças. Sou for
 
 <div>
 <a href="https://github.com/Tiago-Alcantara">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?Tiago-Alcantara&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tiago-Alcantara&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tiago-Alcantara&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
  
-![](https://raw.githubusercontent.com/tiago-Alcantara/Snake-in-Contribution-Grid/output/github-contribution-grid-snake.svg)
+![](https://raw.githubusercontent.com/Tiago-Alcantara/tiago-Alcantara/Snake-in-Contribution-Grid/output/github-contribution-grid-snake.svg)
  
