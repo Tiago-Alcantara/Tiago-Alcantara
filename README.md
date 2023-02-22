@@ -43,3 +43,4 @@ Estou buscando as áreas de Back-end e Data Science voltada a finanças. Sou for
 
 ## Connect with me:
 [<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/tiago-alcantara-8b5b93233)
+<a href = "mailto:Tiago.dpalcantara@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
