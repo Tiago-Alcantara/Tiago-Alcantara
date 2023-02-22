@@ -37,7 +37,6 @@ Estou buscando as áreas de Back-end e Data Science voltada a finanças. Sou for
 #### Tools
 ![Jupyter](https://img.shields.io/badge/Jupyter-%23000000.svg?style=for-the-badge&logo=Jupyter&logoColor=orange&labelColor=white&color=orange)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/Xcode-007ACC?style=flat-square&logo=Xcode&logoColor=white)&nbsp;
-![Visual Studio](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)&nbsp;
 ![Pychar](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)&nbsp;
 
 #### Office tools :
