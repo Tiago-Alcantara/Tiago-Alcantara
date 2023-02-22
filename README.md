@@ -19,7 +19,6 @@ Estou buscando as áreas de Back-end e Data Science voltada a finanças. Sou for
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![VBA](https://img.shields.io/badge/Excel_VBA-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)&nbsp;
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)&nbsp;
-![Jupyter](https://img.shields.io/badge/Jupyter-%23000000.svg?style=for-the-badge&logo=Jupyter&logoColor=orange&labelColor=white&color=orange)&nbsp;
 
 #### ML/DL
 
@@ -35,7 +34,11 @@ Estou buscando as áreas de Back-end e Data Science voltada a finanças. Sou for
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 
-
+#### Tools
+![Jupyter](https://img.shields.io/badge/Jupyter-%23000000.svg?style=for-the-badge&logo=Jupyter&logoColor=orange&labelColor=white&color=orange)&nbsp;
+![Visual Studio Code]("https://img.shields.io/badge/Xcode-007ACC?style=flat-square&logo=Xcode&logoColor=white")&nbsp;
+![Visual Studio]("https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white")&nbsp;
+![Pychar]("https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white")&nbsp;
 
 #### Office tools :
 ![Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)&nbsp;
