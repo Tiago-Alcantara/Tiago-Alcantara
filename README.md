@@ -1,8 +1,7 @@
 # 👋 Hello! Welcome to my Github profile.
 ## My name is Tiago de Pauli Alcântara and my nickname is Tiago and I live in Brazil!
-<sup>Estou buscando as áreas de Back-end e Data Science voltada a finanças</sup>
-<sup>Sou formado em tecnico em informatica pela TecPuc e estou Cursando Analise e desenvolvimento de Sistemas pela Uninter.
-</sup>
+Estou buscando as áreas de Back-end e Data Science voltada a finanças
+Sou formado em tecnico em informatica pela TecPuc e estou Cursando Analise e desenvolvimento de Sistemas pela Uninter.
 
  **I am open to**:
  - Collaborate with Projects and repositories
