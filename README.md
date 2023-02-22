@@ -52,3 +52,4 @@ Estou buscando as áreas de Back-end e Data Science voltada a finanças. Sou for
 </div>
  
  ![Snake animation](https://github.com/Tiago-Alcantara/Tiago-Alcantara/blob/output/github-contribution-grid-snake.svg)
+ 
