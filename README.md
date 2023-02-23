@@ -1,6 +1,6 @@
 # 👋 Hello! Welcome to my Github profile.
 ## My name is [Tiago de Pauli](https://github.com/Tiago-Alcantara) and my nickname is Tiago and I live in Brazil!
-Estou buscando as áreas de Back-end e Data Science voltada a finanças. Sou formado em tecnico em informatica pela TecPuc e estou Cursando Analise e desenvolvimento de Sistemas pela Uninter.
+I'm looking for the Back-end and Data Science areas focused on finance. I have a degree in IT technician from TecPuc and I am studying Systems Analysis and Development at Uninter.
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/Tiago-Alcantara/count.svg" />
@@ -12,6 +12,7 @@ Estou buscando as áreas de Back-end e Data Science voltada a finanças. Sou for
  - Machine learning projects(development or research)
  - Research and development stages
  - Increase NetWorking by collaborating with collaborators
+ - job opportunities as a junior or as an intern
 
 ### Skills:
 
